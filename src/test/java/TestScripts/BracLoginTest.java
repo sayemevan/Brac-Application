@@ -39,7 +39,7 @@ public class BracLoginTest extends BaseTest{
         //wait for fully loaded module page
         Assert.assertTrue(modulePage.waitForLoading(), "Module page visible");
 
-        Logger.getInstance().info("Login Test Success");
+        Logger.getInstance().info("Login Test Success ");
 
 
     }
